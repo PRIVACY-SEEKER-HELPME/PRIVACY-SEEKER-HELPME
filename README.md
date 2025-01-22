@@ -1,17 +1,2 @@
-- 👋 Hi, I’m @PRIVACY-SEEKER-HELPME
-- 👀 I’m interested in ...
- im being targeted,  someone/ multiple users on here have been hacking me for years
-- 🌱 I’m currently learning ...
-  Nothing, i just had a baby,  i don't have time or the knowledge to learn how to code or decode. Although I have found projects through files on my devices eg. @dnb @openocean @mrgoldberg @octocat101 @greggr @deb @doto @contrustion @epic @EpicK (my business was Epic Eclipse Salon) AND SO MANY MORE!
-- 💞️ I’m looking to collaborate on ...
-  I need someone to PLEASE help me get unHacked, i don't know how to do any of this and Im desperate! I just had a baby so I CAN NEVER SIT DOWN AND CONSENTRATE TO LEARN ALL THIS,  I HAVE BEEN TO THE COPS,  FILED REPORTS WITH EVERYONE BUT SINCE THEIR HACKING ME WITH MY OWN EMAILS (that I no longer have access to) AND MAKING IT LOOK LIKE IM DOING IT ALL IM AT A DEAD END!!! PLEEEEASE HELPPP MEEEEE!!!
-- 📫 How to reach me ...
-  please reach out commuting you can help and go from there
-- 😄 Pronouns: ...
-- ⚡ "Fun" fact: ...
-  This has ruined everything! I lost my business, my marriage,  my kids are hurting and NOBODY can/will help
-
-<!---
-PRIVACY-SEEKER-HELPME/PRIVACY-SEEKER-HELPME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{ { ###Delete ["HTTP://MPEGLA.COM" ##Inpersonating_ME ##Violated-all-state-laws ##Intellectual-Personal-Privacy-Rights ##Copyright-Infringment ##Stole-my-identity ##Forging-Authorizations ##Milicious-Harmful-Acts "Purpose": [To 'Monitor', 'Track', 'Configure', 'Virtual Compute', and 'Manage' ':accessibility: #0n-me-and-my-children; Using Administration-tools and DevOps for:'Students', 'Employees', :with_disabilities: #for FULL control and access over all our 'Networks', 'Devices', 'Accounts', including not limited to 'Personal-family-plan', 'Phone Numbers', 'Emails', 'Cameras', 'Locations' as well as redirecting our 'Calls', 'Texts' and 'urls' "Certificates": ['Intel', 'Contoso', 'DnB', 'COSCO', 'BSI', 'B2B', 'APNIC', 'DNSSEC', 'MOBIFONE', 'FIPS', 'VZW.VZW', 'RAR', 'Kernel', 'DaulDAR', 'NXDomain', 'ADP', 'Oynix', 'SMR', 'ASKS', 'SAOMC', 'MDFv3.3', 'ENVOY', 'AWS', 'Fonts', 'MEMs', 'Google 'Workspace', 'AZure', 'VStudio' and MANY more!!] "MIT_lisesce": !!IMPORTANT!! ["MPEGLA.COM"] } "name": ci/django.yml and ci/properties/django.properties.json., "description": "Deactivate and Delete all 'projects', 'Dev-Containors', 'Whitespaces', 'Respatories', 'Accounts' and 'Usrs' that were Built and tested on": "Including": "all Documents suported by ci/django.yml and ci/properties/django.properties.json project." "iconName": "icons/django.svg", "categories":-[[continuous-integration", "deployment", "testing", "code-quality", ["Continuous integration", "JavaScript", "npm", "React", "Angular", "Vue"]], "languages": [#categories] Further, categories from the list of languages available here "Workflow": the list of tech stacks available here. Categories • -continuous-integration • -deployment • -testing • -code-quality !!!!"Delete": [all projects, branches, codespaces, documents, Licesnes and "REVOKE all DEVELOPMENT platforms and controls PERMENITLEY ], [URL] (https://github.com//<Octo_Repo>/CLI/envoyproxy/dependency-shepherds/)=true}
+• -continuous-integration • -deployment • -testing • -code-quality !!!!"Delete": [all projects, branches, codespaces, documents, Licesnes and "REVOKE all DEVELOPMENT platforms and controls PERMENITLEY ], [URL] (https://github.com//<Octo_Repo>/CLI/envoyproxy/dependency-shepherds/)=true}
